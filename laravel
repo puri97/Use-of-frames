@@ -1,0 +1,17 @@
+<html>
+<body>
+<p>
+Laravel is a free, open-source[4] PHP web framework, created by Taylor<br>
+ Otwell and intended for the development of web applications following <br>
+ the model–view–controller (MVC) architectural pattern. Some of the<br>
+ features of Laravel are a modular packaging system with a dedicated <br>
+ dependency manager, different ways for accessing relational databases,<br>
+ utilities that aid in application deployment and maintenance, and its<br> orientation toward syntactic sugar.
+ </p>
+ <p>
+As of March 2015, Laravel is regarded as one of the most popular PHP<br>
+ frameworks, together with Symfony, CodeIgniter, Yii2 and others.<br>
+The source code of Laravel is hosted on GitHub and licensed under the terms of MIT License.
+</p>
+</body>
+</html>
