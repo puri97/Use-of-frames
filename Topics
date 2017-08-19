@@ -1,0 +1,9 @@
+<html>
+<body>
+<a href="oracle.html" target=right>Oracle</a>
+<br><br><br>
+<a href="xampp.html" target=right>Xampp</a>
+<br><br><br>
+<a href="laravel.html" target=right>Laravel</a>
+</body>
+</html>
